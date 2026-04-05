@@ -393,8 +393,8 @@ python web_chat_app.py
 | 이름 | 역할 |
 |---|---|
 | 권민석 | 시스템 아키텍처, MCP Server ① (`krw-full-reserve`) |
-| 김도연 | MCP Server ② (`bank_monitering`), DART/FSS 연동 |
-| 양서윤 | MCP Server ③ (`report-master`), LangGraph 보고서 자동화 |
+| 양서윤 | MCP Server ② (`bank_monitering`), DART/FSS 연동 |
+| 김도연 | MCP Server ③ (`report-master`), LangGraph 보고서 자동화 |
 | 이도원 | MCP Server ④ (`tx_audit`), 블록체인 앵커링 & 감사추적 |
 
 ---
